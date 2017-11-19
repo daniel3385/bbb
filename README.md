@@ -1,3 +1,5 @@
+# UNDER CONSTRUCTION!!!!!
+
 # bbb
 Beaglebone Black Hack's
 
@@ -13,7 +15,7 @@ To put a bootlarder in a SD card, we need to compile it, here the steps:
 * make am335x_boneblack_defconfig
 * make -j4
 
-Formar a SD card to fat32(sugestion: use GParted tool), then copy MLO and u-image.img into it.
+Formar a SD card to fat32(suggestion: use GParted tool), then copy MLO and u-image.img into it.
 
 ## Connect uart to Beaglebone Black throuhgt cp2102 board
 
